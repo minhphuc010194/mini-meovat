@@ -221,9 +221,28 @@ export const data = [
 
 
     // ------------------------------------------------------------------------------------------------\
-    
-
-
-
+    {"index":232,"content":"Trị kiến: Kiến ghét dưa leo. Bỏ vỏ dưa leo gần chỗ có kiến hay ổ kiến."},
+    {"index":233,"content":"Muốn có nước đá trong và sạch: Đun nước cho sôi trước khi đông lạnh."},
+    {"index":234,"content":"Muốn làm cho gương sáng: Dùng alcohol để lau chùi."},
+    {"index":235,"content":"Muốn gỡ kẹo cao su dính vào quần áo: Để quần áo trong tủ đông lạnh khoảng một tiếng đồng hồ."},
+    {"index":236,"content":"Muốn tẩy trắng quần áo màu trắng: Ngâm quần áo màu trắng vào nước nóng có bỏ một lát chanh trong vòng 10 phút."},
+    {"index":237,"content":"Muốn cho tóc được óng ả: Bỏ một muỗng cà phê giấm lên tóc, rồi gội sạch."},
+    {"index":238,"content":"Muốn vắt nước tối đa từ trái chanh: Ngâm chanh trong nước nóng khoảng một tiếng đồng hồ, trước khi vắt nước."},
+    {"index":239,"content":"Muốn làm bớt mùi bắp cải khi nấu: Để một miếng bánh mì trên bắp cải trong nồi khi nấu."},
+    {"index":240,"content":"Ðể tẩy hết mùi tanh của cá trên tay: Rửa tay bằng một chút giấm táo."},
+    {"index":241,"content":"Ðể tránh chảy nước mắt khi sắt củ hành: Nên nhai kẹo cao su."},
+    {"index":242,"content":"Muốn luộc khoai tây nhanh chóng: Chỉ gọt vỏ củ khoai một bên mà thôi, trước khi luộc."},
+    {"index":243,"content":"Muốn luộc trứng nhanh chóng: Bỏ muối vào nước và đun sôi."},
+    {"index":244,"content":"Muốn tẩy mực dính trên quần áo: Bôi nhiều kem đánh răng vào chỗ vết mực và để cho thật khô trước khi giặt."},
+    {"index":245,"content":"Muốn lột vỏ khoai lang nhanh chóng: Ngâm khoai trong nước lạnh ngay sau khi luộc."},
+    {"index":246,"content":"Muốn đuổi chuột: Rắc tiêu đen ở những nơi bạn thấy có chuột. Chúng sẽ bỏ chạy."},
+    {"index":247,"content":"Muốn giữ nếp cho kiểu tóc mới: Trước khi đi ngủ, hãy trải một chiếc khăn lụa trơn mịn lên gối, làm như vậy sẽ không sợ mái tóc mới của bạn bị cong vênh hay mất nếp."},
+    {"index":248,"content":"Muốn xử lý cổ áo, nách áo bị ố vàng: Cho 1 chút dầu gội đầu hoặc một chút kem cạo râu vào bàn chải, sau đó chà lên chỗ bị ố khoảng bốn đến năm phút rồi xả sạch với nước."},
+    {"index":249,"content":"Mẹo “hạ hỏa” nhanh khi ăn phải ớt cay: Uống sữa thay vì uống nước"},
+    {"index":250,"content":"Mẹo gọt khoai sọ mà không bị ngứa: Trước khi gọt khoai, hãy ngâm tay trong giấm tay các bạn sẽ không bị ngứa."},
+    {"index":251,"content":"Lỡ tay nêm canh quá mặn thì phải làm sao?: Hãy cho khoai tây thái miếng vào đun thêm vài phút. Khoai tây sẽ hấp thu một phần muối, và nồi canh của các bạn sẽ bớt vị mặn đi rất nhiều."},
+    {"index":252,"content":".Mẹo nấu cơm vừa thơm vừa ngon hơn: Nhỏ thêm vài giọt nước chanh/dầu thực vật vào nước trước khi nấu cơm, làm vậy cơm sẽ vừa đẹp mắt lại vừa thơm."},
+    {"index":253,"content":"Muốn giữ hoa tươi lâu: Thêm một chút bіа vào bình cắm hoa."},
+    {"index":254,"content":"Muốn đuổi gián ra khỏi nhà nhanh nhất: Hòa tan một lượng phèn chua (axit boric) phù hợp với nước nóng, đợi ít phút rồi dùng chổi lau nhà hoặc giẻ lau nhúng hỗn hợp này để lau nền nhà. Sau khi khô, kết tinh axit boric sẽ thấm vào nền nhà và gián sẽ “nhanh chóng cao chạy xa bay. cũng có thể giúp ngăn ngừa kiến rất tốt."},
 ]
 
