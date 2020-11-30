@@ -1,24 +1,24 @@
 export const data = [
 
-    {"index":1,"content":"Ngủ chảy nước dãi do Tỳ Vị mất cân bằng Tăng cường đi bộ, khoai lang ăn nhiều 2"},
+    {"index":1,"content":"Ngủ chảy nước dãi do Tỳ Vị mất cân bằng Tăng cường đi bộ, khoai lang ăn nhiều"},
 
-    {"index":2,"content":"Ngủ nghiến răng gan nóng uất đấy mà Đỗ đen nấu cháo, ta hay ăn vào 3"},
+    {"index":2,"content":"Ngủ nghiến răng gan nóng uất đấy mà Đỗ đen nấu cháo, ta hay ăn vào"},
 
-    {"index":3,"content":"Ngủ hay mộng mị chẳng yên yên  Tay đặt lên bụng, thế nằm thẳng ngay 4"},
+    {"index":3,"content":"Ngủ hay mộng mị chẳng yên yên  Tay đặt lên bụng, thế nằm thẳng ngay"},
 
-    {"index":4,"content":"Đi bơi chân bị chuột rút đừng lo Tay bên không bị giơ cao lên trời 5"},
+    {"index":4,"content":"Đi bơi chân bị chuột rút đừng lo Tay bên không bị giơ cao lên trời"},
 
-    {"index":5,"content":"Vừa nôn vừa bị đi ngoài Lá vối, vỏ quýt ta đem uống liền 6"},
+    {"index":5,"content":"Vừa nôn vừa bị đi ngoài Lá vối, vỏ quýt ta đem uống liền"},
 
-    {"index":6,"content":"Chỉ bị đau bụng nhẹ thui Nước nóng, nước lạnh trộn cùng uống luôn 7"},
+    {"index":6,"content":"Chỉ bị đau bụng nhẹ thui Nước nóng, nước lạnh trộn cùng uống luôn"},
 
-    {"index":7,"content":"Yếu bóng vía sợ bị ma nhập Củ tỏi giã nát ta mang theo người 8"},
+    {"index":7,"content":"Yếu bóng vía sợ bị ma nhập Củ tỏi giã nát ta mang theo người"},
 
-    {"index":8,"content":"Huyết áp bị tụt bất ngờ  Hít vào hóp bụng thế là nó lên 9"},
+    {"index":8,"content":"Huyết áp bị tụt bất ngờ  Hít vào hóp bụng thế là nó lên"},
 
-    {"index":9,"content":"Trời lạnh huyết áp lên cao đột ngột Ngâm chân nước nóng thế là xuống ngay 10"},
+    {"index":9,"content":"Trời lạnh huyết áp lên cao đột ngột Ngâm chân nước nóng thế là xuống ngay"},
 
-    {"index":10,"content":"Đột nhiên quên béng thứ gì Ngón tay gõ nhẹ Ấn đường nhớ ra 11"},
+    {"index":10,"content":"Đột nhiên quên béng thứ gì Ngón tay gõ nhẹ Ấn đường nhớ ra"},
 
     {"index":11,"content":"Lẹo mắt, đũa cả đánh cơm Hơ nóng áp lẹo vài lần khỏi ngay"},
 
@@ -30,7 +30,7 @@ export const data = [
 
     {"index":19,"content":"Độc rắn, nhựa Đu đủ xanh Bôi, rồi thái quả sắc nhanh kịp thời"},
 
-    {"index":21,"content":"Dạ đề trẻ khóc không ngơi,  Xác Ve sao, tán, uống bồi nước Cơm 17"},
+    {"index":21,"content":"Dạ đề trẻ khóc không ngơi,  Xác Ve sao, tán, uống bồi nước Cơm"},
 
     {"index":22,"content":"Dị ứng Kinh giới, Đinh lăng Rau má, Diếp cá đun cùng Tía tô"},
 
@@ -138,7 +138,7 @@ export const data = [
 
     {"index":126,"content":"Nhân sâm và củ Đinh lăng Dùng vào bổ khí, lực tăng sức bền"},
 
-    {"index":128,"content":"Bí trung tiện muốn thông nhanh Có hạt Mít luộc, ăn liền gió đua 71"},
+    {"index":128,"content":"Bí trung tiện muốn thông nhanh Có hạt Mít luộc, ăn liền gió đua"},
 
     {"index":129,"content":"Bí đại, tiểu tiện Phèn chua Đem phi, tán bột, rốn kia rắc vào"},
 
@@ -176,7 +176,7 @@ export const data = [
     {"index":165,"content":"Bệnh gout cần phải phòng ngừa Đỗ xanh cả vỏ, ta cho ăn nhiều"},
     {"index":167,"content":"Trẻ ho có lá Hẹ tươi Đường phèn cùng hấp ta rời kháng sinh"},
     {"index":169,"content":"Đau mắt đỏ Diếp cá tanh Rửa sạch giã nhuyễn ta đem đắp vào"},
-    {"index":171,"content":"Chẳng may bỏng lửa, nước sôi Lá Bỏng giã nhuyễn, đắp vào vết thương 93"},
+    {"index":171,"content":"Chẳng may bỏng lửa, nước sôi Lá Bỏng giã nhuyễn, đắp vào vết thương"},
     {"index":172,"content":"Viêm họng có quả Trám đen Bỏ hạt, ninh kỹ thêm đường uống nhanh"},
     {"index":174,"content":"Bong gân lá Láng ta dùng Hơ nóng, ngâm nước gạo xong đắp vào"},
     {"index":176,"content":"Mồ hôi trộm, lở, chốc đầu  Lá Bỏng vắt nước, uống vào thật hay"},
@@ -198,19 +198,19 @@ export const data = [
 
     {"index":208,"content":"Cam lồ nước bọt chớ quên  Nuốt ực xuống bụng, tiêu tan bệnh mà"},
 
-    {"index":210,"content":"Mụn thịt ( cơm ) nhìn chớ có buồn Tía tô vò nát bôi vào rụng thui 113"},
+    {"index":210,"content":"Mụn thịt ( cơm ) nhìn chớ có buồn Tía tô vò nát bôi vào rụng thui"},
 
     {"index":211,"content":"Hóc xương , đọc thần chú câu này:  Gần thì ra, xa thì vào thế là nó trôi"},
 
-    {"index":213,"content":"Trung tiện mà thấy khó khăn Hạt mít đem luộc ăn vào thật hay 115"},
+    {"index":213,"content":"Trung tiện mà thấy khó khăn Hạt mít đem luộc ăn vào thật hay"},
 
-    {"index":214,"content":"Tiểu tiện mà bí, bụng chướng thật nguy Hành ta đem luộc uống vào hay ngay 116"},
+    {"index":214,"content":"Tiểu tiện mà bí, bụng chướng thật nguy Hành ta đem luộc uống vào hay ngay"},
 
     {"index":215,"content":"Đại tiện mà gặp khó khăn Phèn phi tán bột, rắc vào rốn thui"},
 
-    {"index":217,"content":"Mồ hôi mà nó chẳng ra, nặng người Lấy Hương Nhu tía , vừa uống vừa xông 118"},
+    {"index":217,"content":"Mồ hôi mà nó chẳng ra, nặng người Lấy Hương Nhu tía , vừa uống vừa xông"},
 
-    {"index":218,"content":"Tác mũi , mà nó chẳng thông Lấy máy sấy tóc hơ ngay ấn đường 119"},
+    {"index":218,"content":"Tác mũi , mà nó chẳng thông Lấy máy sấy tóc hơ ngay ấn đường"},
 
     {"index":220,"content":"Mùa Đông, trời lạnh ngủ chẳng ngon. Đun gừng đã nướng, thêm đường cho ngon."},
 
@@ -218,6 +218,10 @@ export const data = [
     {"index":229,"content":"Đi lạnh, đưa đám.. sợ nhiễm hàn tà Về xông bồ hết, vỏ bưởi..trục hàn tà ra"},
     {"index":230,"content":"Nắng nóng sợ nhiễm nhiệt tà, Vỏ quả dưa hấu uống vào bạn ơi"},
     {"index":231,"content":"Trúng phong méo miệng thật lo, kinh giới đun rượu uống cho sớm vào"},
+
+
+    // ------------------------------------------------------------------------------------------------\
+    
 
 
 
